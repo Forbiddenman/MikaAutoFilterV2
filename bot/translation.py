@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>I'm MIKA,an Advanced Auto Filter Bot☺
+<i>I'm MIKA,an Advanced Auto Filter Bot🥰
 
 You can't add me to your channel😂
 So don't kill your time by hitting the start button😁
